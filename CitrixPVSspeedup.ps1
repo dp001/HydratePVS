@@ -4,7 +4,10 @@ $CitrixCSV = $BaseFolder + "CitrixSpeedUp.csv"
 
 # Funtions
 function FileToCache ($File) {
+    # Slow
     #[System.IO.File]::ReadAllBytes($File)
+    #
+    # Quicker but need to be tested
     #Get-Content -Raw $File.FullName
     Write-Output $File
 }
