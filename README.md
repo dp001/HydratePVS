@@ -14,4 +14,5 @@ Child_*.dll     all Child_<something>.dll
 Search is recursive on child folders
 
 Script is intent to be scheduled immediately after server reboot
-MCS with RAM cache should benefit too
+
+Citrix MCS benefits too
