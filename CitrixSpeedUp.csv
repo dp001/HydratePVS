@@ -1,0 +1,5 @@
+AppFileDirectory,SearchFilter
+C:\Temp,*.exe
+C:\Temp,*.dll
+C:\swsetup\sp99237\InstMultiPkg.exe
+C:\Program Files (x86)\Google\Chrome\Application,chrome_*.dll
